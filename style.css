@@ -41,15 +41,17 @@
 }
 
 .content-page {
-    padding: 2vw;
+    padding: 4vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
 }
 
 .content-page-top {
-    font-size: 1.5vw;
+    font-size: 1.2vw;
 }
 
 .content-page-top p {
-    color: grey;
+    color: #777777;
     font-weight: 600;
 }
 
@@ -67,19 +69,44 @@
 .content-page-middle {
     margin-top: 3vh;
     display: flex;
+    justify-content: space-between;
 }
 
 .widget-large {
     width: 55vw;
-    background-color: pink;
+    background-color: rgb(255, 192, 239);
     border-radius: 1vh;
+    transition: 500ms;
+    box-shadow: 0vw 0vw 2vw rgba(0, 0, 0, 0.363);
+}
+
+.widget-large:hover {
+    transition: 500ms;
+    transform: scale(0.98);
+    cursor: pointer;
+}
+
+.widget-middle:hover {
+    transition: 500ms;
+    transform: scale(0.98);
+    cursor: pointer;
+}
+
+.inside-top-widget-large {
+    background-image: url('https://laris-acessorios.netlify.app/imgs/brinco-earcuff-cristal-_1_.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 1vh 1vh 0vh 0vh;
 }
 
 .inside-top-widget-large-text {
     padding: 2vw;
     position: relative;
     padding-bottom: 1vw;
-    font-size: 1.5vw;
+    font-size: 1vw;
+    padding-top: 35vh;
+    color: white;
 }
 
 .imageiinsidewidget {
@@ -94,27 +121,31 @@
 
 .apps-info-widlarg {
     display: flex;
-    font-size: 0.9vw;
+    font-size: 0.7vw;
     padding: 1vh;
     padding-left: 0vh;
     padding-right: 0vh;
     align-items: center;
+    color: white;
     
 }
 
-.iconappwidget img {
-    width: 7vh;
-    height: 7vh;
-    border-radius: 1vw;
-    object-fit: cover;
-    padding: 0;
-}
 .iconappwidget {
     display: flex;
     justify-content: space-between;
-    border-top: 0.1vw solid grey;
+    border-top: 0.1vw solid rgba(112, 112, 112, 0.253);
     align-items: center;
 }
+
+
+.iconappwidget img {
+    width: 4.5vw;
+    height: 4.5vw;
+    border-radius: 1vw;
+    object-fit: cover;
+    padding: 0.7vw;
+}
+
 .button-action-obter {
     padding-left: 1vw;
     padding-right: 1vw;
@@ -123,8 +154,92 @@
 }
 
 .button-action-obter label {
-    padding: 1vh;
-    background-color: #f5f5f5;
-    color: #876afa;
+    padding: 0.5vw 2vw 0.5vw 2vw;
+    background-color: #6b6a6a81;
+    color: white;
+    font-weight: 600;
     border-radius: 1vw;
+    font-size: 0.9vw;
+    cursor: pointer;
+}
+
+.button-action-obter label:hover {
+    background-color: #49494981;
+    transition: 500ms;
+}
+
+.inside-bottom-widget-large {
+    background: linear-gradient(150deg, rgb(250, 105, 238), rgb(253, 147, 239));
+    border-radius: 0vw 0vh 1vh 1vh;
+}
+
+.widget-middle {
+    background-color: white;
+    box-shadow: 0vw 0vw 2vw rgba(0, 0, 0, 0.363);
+    border-radius: 1vh;
+    width: 25vw;
+    padding: 1vw;
+    font-size: 0.8vw;
+    transition: 500ms;
+}
+
+.content-page p#titlewidgetmidle {
+    font-weight: 500;
+    color: grey;
+}
+
+.content-page h1#titlewidgetmidle {
+    font-size: 1.5vw;
+    
+}
+
+.app-wid-middle {
+    display: flex;
+    font-size: 0.6vw;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.apps-content {
+    margin-top: 2vh;
+}
+
+.apps-content img {
+    width: 4vw;
+    height: 4vw;
+    border: 0.1vw solid rgb(212, 212, 212);
+    border-radius: 0.4vw;
+    margin-right: 0.5vw;
+}
+
+.leftsidemiddle {
+    display: flex;
+    align-items: center;
+}
+
+.obterwidgetbutton {
+    background-color: #d6d6d6;
+    color: #876afa;
+    padding: 0.3vw 1vw 0.3vw 1vw;
+    border-radius: 1vw;
+}
+
+.obterwidgetbutton:hover {
+    background-color: #bbbbbb;
+    cursor: pointer;
+    transform: scale(0.9);
+    transition: 500ms;
+}
+
+.rightsidemiddle {
+    justify-content: center;
+    text-align: center;
+    width: 5vw;
+}
+
+.rightsidemiddle p {
+    font-size: 0.6vw;
+    margin-top: 0.5vh;
+    color: grey;
 }
