@@ -13,7 +13,7 @@ fetch('topsemana.json').then(function(response) {
                         </div>
                         <div class="infoapp">
                             <h1>${apps.name}</h1>
-                            <p>${apps.description}</p>
+                            <p id='descriptionapp'>${apps.description}</p>
                         </div>
                     </div>
                             

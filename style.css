@@ -13,7 +13,7 @@
     position: fixed;
     background: white;
     border-top: 0.1vh solid grey;
-    top: 90vh;
+    top: 93vh;
     padding-top: 2.6vh;
     padding-bottom: 2.6vh;
 }
@@ -34,6 +34,7 @@
 
 .bottom-bar-icons i {
     font-size: 1.5vw;
+    margin-right: 1vw;
 }
 
 .bottom-bar-icons a#selected {
@@ -78,6 +79,7 @@
     border-radius: 1vh;
     transition: 500ms;
     box-shadow: 0vw 0vw 2vw rgba(0, 0, 0, 0.363);
+    margin-bottom: 4vh;
 }
 
 .widget-large:hover {
@@ -137,6 +139,10 @@
     align-items: center;
 }
 
+#descriptionapp {
+    color: grey;
+}
+
 
 .iconappwidget img {
     width: 4.5vw;
@@ -177,10 +183,11 @@
     background-color: white;
     box-shadow: 0vw 0vw 2vw rgba(0, 0, 0, 0.363);
     border-radius: 1vh;
-    width: 25vw;
+    width: 35vw;
     padding: 1vw;
     font-size: 0.8vw;
     transition: 500ms;
+    margin-bottom: 4vh;
 }
 
 .content-page p#titlewidgetmidle {
@@ -280,7 +287,7 @@
     .bottom-bar-icons a{
         text-decoration: none;
         color: grey;
-        font-size: 4.2vw;
+        font-size: 4.5vw;
         text-align: center;
     }
     
@@ -464,8 +471,8 @@
         width: 9vw;
         height: 9vw;
         border: 0.1vw solid rgb(212, 212, 212);
-        border-radius: 0.4vw;
-        margin-right: 0.5vw;
+        border-radius:  1.5vw;
+        margin-right: 2vw;
         object-fit: cover;
     }
     
