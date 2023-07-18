@@ -63,4 +63,4 @@ if(mes < 10) {
     mes = `0` + mes
 }
 
-document.querySelector(`.current-date`).innerHTML = `${dia} de ${mesnome} de ${ano}`
+document.querySelector(`.current-date`).innerHTML = `${dia} de ${mesnome}`

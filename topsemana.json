@@ -14,5 +14,29 @@
         "onclick": "<a class='obterwidgetbutton' href='https://www.opera.com/pt-br/computer/thanks?ni=eapgx&os=windows&utm_source=google&utm_medium=pa&utm_campaign=OGX_BR_Search_PT_T1_Brand_V2&utm_id=Cj0KCQjwzdOlBhCNARIsAPMwjbzKovDY5C4fg2UjR9282J5Ie3t0gry5ab0x7827leYVetrb76GNb3kaAgALEALw_wcB' target='_blank'>OBTER</a>",
         "type": "Navegador",
         "in_app_purchases": ""
+    },
+    {
+        "name": "Discord",
+        "description": "Reuna seus amigos e continue o papo",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-16XK7VKaVB4y3j1-X2Fx0Z5nvZcLJOBi-A&usqp=CAU",
+        "onclick": "<a class='obterwidgetbutton' href='https://discord.com/download' target='_blank'>OBTER</a>",
+        "type": "Aplicativo",
+        "in_app_purchases": ""
+    },
+    {
+        "name": "Steam",
+        "description": "Jogos",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_zukYp5cJhx20Qedh6AkGl8BOKrtvFcs5g&usqp=CAU",
+        "onclick": "<a class='obterwidgetbutton' href='https://store.steampowered.com/about/' target='_blank'>OBTER</a>",
+        "type": "Aplicativo",
+        "in_app_purchases": ""
+    },
+    {
+        "name": "Drivers da Nvidia",
+        "description": "Instale os drivers oficiais da nvidia.",
+        "icon": "https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/02-nvidia-logo-color-grn-500x200-4c25-p@2x.png",
+        "onclick": "<a class='obterwidgetbutton' href='https://www.nvidia.com.br/Download/index.aspx' target='_blank'>OBTER</a>",
+        "type": "Driver",
+        "in_app_purchases": ""
     }
 ]
