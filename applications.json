@@ -1,0 +1,112 @@
+[
+    {
+        "id": "0",
+        "name": "Picsart AI Editor de Fotos",
+        "description": "Editar Vídeo, Avatar, Collagem",
+        "icon": "https://play-lh.googleusercontent.com/1JMJ518jogwPeaD0pYn2mBu1cRLD0xRi45wNbtTIRvam1_xx-y3KJOjRAx-W9P4Lf0U",
+        "icongrande": "https://pastatic.picsart.com/illustrator-template/20f330b873fb5762b00a01e4bb5367e4.png",
+        "onclick": "<a class='obterwidgetbutton' href='apps/picsart.html'>VER MAIS</a>",
+        "type": "Aplicativo",
+        "in_app_purchases": "",
+        "topdasemana": "yes"
+    },
+    {
+        "id": "1",
+        "name": "Snapchat",
+        "description": "Share the moment",
+        "icon": "https://assets.materialup.com/uploads/0a167b5f-425d-4b90-adeb-57016ccbcbcd/0x0ss-85.jpg",
+        "icongrande": "https://avisualglitch.com/wp-content/uploads/2017/10/Snapchat-banner-e1508618156685.jpg",
+        "onclick": "<a class='obterwidgetbutton' href='apps/snapchat.html'>VER MAIS</a>",
+        "type": "Aplicativo",
+        "in_app_purchases": "",
+        "topdasemana": "yes"
+    },
+    {
+        "id": "2",
+        "name": "Canva: Desenho, Fotos e Vídeos",
+        "description": "Editor de IA, Colagem e Arte",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/23/5e/9c235e58-a299-812d-9864-80d2ae74f40a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024.jpg",
+        "icongrande": "https://t.ctcdn.com.br/IBZQWz2bfgK1Ooxlegfvqec5FQ4=/1200x675/smart/i419662.png",
+        "onclick": "<a class='obterwidgetbutton' href='apps/canva.html'>VER MAIS</a>",
+        "type": "Aplicativo",
+        "in_app_purchases": "",
+        "topdasemana": "yes"
+    },
+    {
+        "id": "3",
+        "name": "TikTok",
+        "description": "Pessoas reais, vídeos reais.",
+        "icon": "https://i.pinimg.com/originals/27/2d/df/272ddfccb6bb6161a6a9364ffc3703d7.png",
+        "icongrande": "https://cdn.smehost.net/dailyrindblogcom-orchardprod/wp-content/uploads/2021/07/TikTok_Banner-1.jpg",
+        "onclick": "<a class='obterwidgetbutton' href='apps/tiktok.html'>VER MAIS</a>",
+        "type": "Aplicativo",
+        "in_app_purchases": "",
+        "topdasemana": "yes"
+    },
+    {
+        "id": "4",
+        "name": "Smule: App de Musica Karaoke",
+        "description": "Cante nosso áudio com sua voz!.",
+        "icon": "https://play-lh.googleusercontent.com/OfoqvtjnJN1BMezCZHJVVedsHrosIH_YoCUj28Sdhl3ch9tVFFGQgwnXByOR8t_6V58",
+        "icongrande": "https://blog.smule.com/wp-content/uploads/pride3.png",
+        "onclick": "<a class='obterwidgetbutton' href='apps/smule.html'>VER MAIS</a>",
+        "type": "Aplicativo",
+        "in_app_purchases": "",
+        "topdasemana": "yes"
+    },
+    {
+        "id": "5",
+        "name": "Call of Duty: Mobile",
+        "description": "Multijogador, FPS, JxJ",
+        "icon": "https://play-lh.googleusercontent.com/WjXoRzJKWHJ_x52qWYA6ECM70bq3x0vwwYiBhzLXdOIHCo-obdUTztPbskEn0K8_wBs",
+        "icongrande": "https://support.activision.com/content/dam/atvi/support/article-assets/hero-banners/call-of-duty-mobile/codmobile-hero2.jpg",
+        "onclick": "<a class='obterwidgetbutton' href='games/call-of-duty-mobile.html'>VER MAIS</a>",
+        "type": "Jogo",
+        "in_app_purchases": "",
+        "topdasemana": "no"
+    },
+    {
+        "id": "6",
+        "name": "FIFA Futebol",
+        "description": "Treine estrelas do futebol",
+        "icon": "https://play-lh.googleusercontent.com/MUc561H_AeA4lUfUzyo0-6ZgikC6xrblMMPcbOTNC61iXb9hbfV9guj5IKiXAMfpumJw",
+        "icongrande": "https://www.geosuper.tv/assets/uploads/updates/2022-11-19/20177_1119627_updates.jpg",
+        "onclick": "<a class='obterwidgetbutton' href='games/fifa-futebol.html'>VER MAIS</a>",
+        "type": "Jogo",
+        "in_app_purchases": "",
+        "topdasemana": "no"
+    },
+    {
+        "id": "7",
+        "name": "Candy Crush Saga",
+        "description": "Jogos quebra-cabeças match 3",
+        "icon": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0",
+        "icongrande": "https://www.king.com/images/share/banners/candycrush.png?_v=kmoqjd",
+        "onclick": "<a class='obterwidgetbutton' href='games/candy-crush-saga.html'>VER MAIS</a>",
+        "type": "Jogo",
+        "in_app_purchases": "",
+        "topdasemana": "no"
+    },
+    {
+        "id": "8",
+        "name": "Roblox",
+        "description": "Visite milhões de experiências",
+        "icon": "https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht",
+        "icongrande": "https://t.ctcdn.com.br/Vkq5oqOvYYStgxP12TGre2dzUz4=/720x405/smart/filters:format(webp)/i609512.jpeg",
+        "onclick": "<a class='obterwidgetbutton' href='games/roblox.html'>VER MAIS</a>",
+        "type": "Jogo",
+        "in_app_purchases": "",
+        "topdasemana": "no"
+    },
+    {
+        "id": "9",
+        "name": "Minecraft",
+        "description": "Create, explore and survive!",
+        "icon": "https://play-lh.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP",
+        "icongrande": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000964/811461b8d1cacf1f2da791b478dccfe2a55457780364c3d5a95fbfcdd4c3086f",
+        "onclick": "<a class='obterwidgetbutton' href='games/minecraft.html'>VER MAIS</a>",
+        "type": "Jogo",
+        "in_app_purchases": "",
+        "topdasemana": "no"
+    }
+]
