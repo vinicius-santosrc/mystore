@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Google Chrome",
+        "description": "Navegador",
+        "icon": "https://images.macrumors.com/t/HyrHxIvZNGmR5WnFhIrvLopCAW8=/1600x/article-new/2015/05/Google_Chrome_Material_Icon-450x450.jpg",
+        "onclick": "<a class='obterwidgetbutton' href='https://www.google.pt/intl/pt-PT/chrome/?brand=FHFK&gclid=EAIaIQobChMI9767tfuWgAMVDTORCh0qKgnCEAAYASAAEgJ0rPD_BwE&gclsrc=aw.ds' target='_blank'>OBTER</a>",
+        "type": "Navegador",
+        "in_app_purchases": ""
+    },
+    {
+        "name": "Opera GX",
+        "description": "Navegador",
+        "icon": "https://cdn.icon-icons.com/icons2/3053/PNG/512/opera_gx_macos_bigsur_icon_189866.png",
+        "onclick": "<a class='obterwidgetbutton' href='https://www.opera.com/pt-br/computer/thanks?ni=eapgx&os=windows&utm_source=google&utm_medium=pa&utm_campaign=OGX_BR_Search_PT_T1_Brand_V2&utm_id=Cj0KCQjwzdOlBhCNARIsAPMwjbzKovDY5C4fg2UjR9282J5Ie3t0gry5ab0x7827leYVetrb76GNb3kaAgALEALw_wcB' target='_blank'>OBTER</a>",
+        "type": "Navegador",
+        "in_app_purchases": ""
+    }
+]

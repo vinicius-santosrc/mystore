@@ -223,6 +223,7 @@
     color: #876afa;
     padding: 0.3vw 1vw 0.3vw 1vw;
     border-radius: 1vw;
+    text-decoration: none;
 }
 
 .obterwidgetbutton:hover {
