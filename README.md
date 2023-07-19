@@ -1,7 +1,7 @@
 <h1>Welcome to My Store</h1>
 <p>🛍️ Uma loja virtual de aplicativos simples.</p>
 <p>📱 Flexibilidade para dispositivos móveis e computadores.</p>
-<p>🌐 <a href="https://my-storeapps.netlify.app">Website</a></p>
+<p>🌐 <a href="https://my-storeapps.netlify.app" target='_blank'>Website</a></p>
 
 <h1></h1>
 
